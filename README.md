@@ -30,7 +30,7 @@ Make sure you have Python installed. If not, you can download it from [python.or
 
 1. Clone the repository to your local machine using `git clone https://github.com/Bhudil/TxtSumm.git`.
 2. Navigate to the project directory: `cd TxtSumm`.
-3. Install the required packages.
+3. Install the required packages by running: pip install -r requirements.txt
 
 ## Usage
 
@@ -40,6 +40,14 @@ Run the application by executing `Text_Summarization_NLP_UI.ipynb`.
 2. Click the **Summarize** button to generate the summary.
 3. The summarized text will be displayed in the output text box.
 4. Click the **Copy to Clipboard** button to copy the summary for later use.
+
+## Outcomes
+LAYOUT:-
+![ts1](https://github.com/Bhudil/TxtSumm/assets/99169324/76cd62e6-42d7-4731-9aeb-a10099e370da)
+USE CASE:-
+here it is a summary of the description of an anime series 'Cowboy Bebop'
+![ts2](https://github.com/Bhudil/TxtSumm/assets/99169324/0821754b-cf36-407f-980d-1eacfb1ae5d9)
+
 
 ## Customization
 
