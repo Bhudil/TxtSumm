@@ -47,7 +47,8 @@ LAYOUT:-
 USE CASE:-
 here it is a summary of the description of an anime series 'Cowboy Bebop'
 ![ts2](https://github.com/Bhudil/TxtSumm/assets/99169324/0821754b-cf36-407f-980d-1eacfb1ae5d9)
-
+pop-up box confirming that the text has been copied to clipboard
+![clipts](https://github.com/Bhudil/TxtSumm/assets/99169324/95317367-1046-4059-81a2-38faa1ce0051)
 
 ## Customization
 
